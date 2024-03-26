@@ -16,10 +16,4 @@ The results of the SVM model are well performed with an accuracy of 96%.
 https://drive.google.com/file/d/1fe-sulWTNs1kDTDvryxnBAirLZXqB7mX/view?usp=drive_link
 
 ## Data sample
-Building 1
-
-![Copy of IMG_6837](https://github.com/esmond09/pattern-recognition-building/assets/130723274/85d6a50e-c4f1-486a-9807-7e98768175f7)
-
-Building 2
-
-![Copy of IMG_6146](https://github.com/esmond09/pattern-recognition-building/assets/130723274/5d36fed3-d817-4723-8a0c-7fad751457aa)
+![image](https://github.com/esmond09/pattern-recognition-building/assets/130723274/06181e42-6265-4b0e-8ecf-12fef7628e05)
